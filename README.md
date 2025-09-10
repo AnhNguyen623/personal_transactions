@@ -1,6 +1,6 @@
 # Llms-analyse-finance (Personal Transactions)
 
-An end-to-end example of applying **local LLMs in Python** to transaction categorization and dashboarding—delivering an **interactive personal-finance view (2023–2024)**.
+- An end to end example of applying **local LLMs in Python** to transaction categorization and dashboarding—delivering an **interactive personal-finance view (2023–2024)**.
 ---
 
 ## Installing local LLMs (optional)
