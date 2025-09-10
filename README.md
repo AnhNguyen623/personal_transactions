@@ -8,7 +8,8 @@
 
 ## Personal finance dashboard
 
-[![Open the Personal Finance Dashboard](docs/dashboard.png)](https://anhnguyen623.github.io/personal_transactions/)
+[![Open the Personal Finance Dashboard][![Open the Personal Finance Dashboard](docs/dashboard.png)](https://anhnguyen623.github.io/personal_transactions/?v=20250910-2)
+
 
 ---
 
