@@ -1,7 +1,6 @@
 # Llms-analyse-finance (Personal Transactions)
 
-In this project, I explore how local LLMs / Python notebooks can be used to **label/categorize bank transactions** and build a small **personal finance dashboard** for 2023–2024.
-
+An end-to-end example of applying **local LLMs in Python** to transaction categorization and dashboarding—delivering an **interactive personal-finance view (2023–2024)**.
 ---
 
 ## Installing local LLMs (optional)
@@ -15,7 +14,7 @@ In this project, I explore how local LLMs / Python notebooks can be used to **la
 - `Date` — `YYYY-MM-DD`
 - `Name / Description`
 - `Expense/Income` — `Expense` or `Income`
-- `Amount (VND)` —  `6.000.000 VND`
+- `Amount (VND)` —  `6.000.000`
 
 ---
 
