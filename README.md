@@ -7,7 +7,6 @@
 - Ollama: https://ollama.ai/  
 
 ## Personal finance dashboard
-🔗 **Dashboard:** https://anhnguyen623.github.io/personal_transactions/
 
 [![Open the Personal Finance Dashboard](docs/dashboard.png)](https://anhnguyen623.github.io/personal_transactions/)
 
