@@ -1,19 +1,20 @@
-# Llms-analyse-finance (Personal Transactions)
+# LLMS-analyse-finance (Personal Transactions)
 
 - An end to end example of applying **local LLMs in Python** to transaction categorization and dashboarding—delivering an **interactive personal-finance view (2023–2024)**.
 ---
 
-## Installing local LLMs (optional)
-- Ollama: https://ollama.ai/  
-
-## Personal finance dashboard
+## Final Outcomes: Personal finance dashboard
 
 [![Open the Personal Finance Dashboard][![Open the Personal Finance Dashboard](docs/dashboard.png)](https://anhnguyen623.github.io/personal_transactions/?v=20250910-2)
 
 
----
 
-## Data schema (CSV)
+## Step_1 Installing local LLMs (optional)
+- Ollama: https://ollama.ai/  
+
+## MORE DETAIL PLS STEP_2 & STEP_3 & STEP_4
+
+## Data schema (CSV) NEED TO PREPARE
 - `Date` — `YYYY-MM-DD`
 - `Name / Description`
 - `Expense/Income` — `Expense` or `Income`
@@ -23,3 +24,6 @@
 
 ## Disclaimer:
 The example data in this repo are fictious and for illustration purposes.
+
+
+## PURPOSE: 1. EASY TO SHARE AND MODIFY | 2. STORAGE PROJECT
