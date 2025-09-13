@@ -26,4 +26,6 @@
 The example data in this repo are fictious and for illustration purposes.
 
 
-## PURPOSE: 1. EASY TO SHARE AND MODIFY | 2. STORAGE PROJECT
+## PURPOSE: 1. EASY TO SHARE AND MODIFY | 2. STORAGE PROJECT | 3.SHARE TOKEN
+
+## GTI COMMAND: git add . > git commit -m "MESSAGE" > git push 
