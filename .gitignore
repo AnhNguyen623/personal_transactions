@@ -10,6 +10,5 @@ __pycache__/
 .DS_Store
 venv/
 
-# Dữ liệu cá nhân
-transactions_*.csv
-EOF
+!transactions_2023_2024.csv
+!transactions_2023_2024_categorized.csv
